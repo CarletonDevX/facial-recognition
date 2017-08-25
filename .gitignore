@@ -1,0 +1,9 @@
+*.txt
+
+*.jpe
+*.jpeg
+*.jpg
+*.png
+*.gif
+
+azure-config.json
